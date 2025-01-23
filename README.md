@@ -23,7 +23,7 @@ dependencies:
 flutter:
   generate: true
 
-
+### 2. Create directory and file
 route directory
 │   lib/
 │   ├── l10n/
